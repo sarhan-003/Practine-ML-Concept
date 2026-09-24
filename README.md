@@ -13,6 +13,7 @@ This repository is designed to build a strong foundation in Machine Learning, Da
 - Random Sample Imputation
 - KNN Imputation
 - Simple Linear Regression
+- Multiple Linear Regression
 
 🔹 Feature Engineering
 
