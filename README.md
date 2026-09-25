@@ -12,6 +12,9 @@ This repository is designed to build a strong foundation in Machine Learning, Da
 - Handling Missing Categorical Data
 - Random Sample Imputation
 - KNN Imputation
+- Simple Linear Regression
+- Multiple Linear Regression
+- KNN Algo using python 
 
 🔹 Feature Engineering
 
