@@ -14,7 +14,8 @@ This repository is designed to build a strong foundation in Machine Learning, Da
 - KNN Imputation
 - Simple Linear Regression
 - Multiple Linear Regression
-- KNN Algo using python 
+- KNN Algo using python
+- Gradient Descent 
 
 🔹 Feature Engineering
 
