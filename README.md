@@ -15,7 +15,8 @@ This repository is designed to build a strong foundation in Machine Learning, Da
 - Simple Linear Regression
 - Multiple Linear Regression
 - KNN Algo using python
-- Gradient Descent 
+- Gradient Descent
+- Ridge Regularization
 
 🔹 Feature Engineering
 
