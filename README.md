@@ -17,8 +17,7 @@ This repository is designed to build a strong foundation in Machine Learning, Da
 - KNN Algo using python
 - Gradient Descent
 - Ridge Regularization
-- Lisso Regularization 
-
+- ElasticNet Regression
 🔹 Feature Engineering
 
 - Feature Construction
