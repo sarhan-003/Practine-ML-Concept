@@ -18,6 +18,10 @@ This repository is designed to build a strong foundation in Machine Learning, Da
 - Gradient Descent
 - Ridge Regularization
 - ElasticNet Regression
+- Logistic Regression
+
+
+  
 🔹 Feature Engineering
 
 - Feature Construction
