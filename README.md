@@ -41,6 +41,7 @@ This repository is designed to build a strong foundation in Machine Learning, Da
 - 🏠 House Price Prediction
 - Regression-based prediction
 - Dataset preprocessing and model preparation
+- Customer Chrun Prediction
 
 ---
 
