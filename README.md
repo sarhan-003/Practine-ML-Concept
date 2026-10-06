@@ -20,6 +20,7 @@ This repository is designed to build a strong foundation in Machine Learning, Da
 - ElasticNet Regression
 - Logistic Regression
 - KNN Alogorith
+- Naitive byes
 
 
 
