@@ -17,7 +17,16 @@ This repository is designed to build a strong foundation in Machine Learning, Da
 - KNN Algo using python
 - Gradient Descent
 - Ridge Regularization
+- ElasticNet Regression
+- Logistic Regression
+- KNN Alogorith
+- Naitive byes
+- KNN Neighbour Algorithm 
 
+
+
+
+  
 🔹 Feature Engineering
 
 - Feature Construction
@@ -36,6 +45,7 @@ This repository is designed to build a strong foundation in Machine Learning, Da
 - 🏠 House Price Prediction
 - Regression-based prediction
 - Dataset preprocessing and model preparation
+- Customer Chrun Prediction
 
 ---
 
