@@ -19,7 +19,7 @@ This repository is designed to build a strong foundation in Machine Learning, Da
 - Ridge Regularization
 - ElasticNet Regression
 - Logistic Regression
-- KNN Alogorith
+- KNN Alogorithm
 - Naitive byes
 - KNN Neighbour Algorithm
 - Decision Tree
