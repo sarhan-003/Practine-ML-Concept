@@ -36,6 +36,7 @@ This repository provides practical implementations of important Machine Learning
 - Identifying and treating outliers.
 - Creating meaningful features for predictive modeling.
 - Implementing regression and other Machine Learning techniques.
+- Data preprocessing and data insights 
 
 Each topic serves as a step toward building more advanced Machine Learning projects.
 
