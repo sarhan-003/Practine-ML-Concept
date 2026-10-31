@@ -59,6 +59,7 @@ Explore techniques for transforming raw data into useful features that can impro
 - Feature construction.
 - Creating meaningful variables.
 - Preparing data for predictive modeling.
+- Selection and making data preprocessing.
 
 ### 3. Machine Learning Projects
 
