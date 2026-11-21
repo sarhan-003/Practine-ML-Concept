@@ -23,7 +23,6 @@ The goal is to move beyond theory and develop a strong foundation in practical M
 - [Future Improvements](#-future-improvements)
 - [Contributing](#-contributing)
 - [Author](#-author)
-
 ---
 
 ## 🎯 About the Project
